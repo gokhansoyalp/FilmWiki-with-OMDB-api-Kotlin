@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //for activity_main
+    <dimen name="tv_search_mLeft">20dp</dimen>
+    <dimen name="tv_search_mTop">50dp</dimen>
+    <dimen name="tv_search_tSize">30sp</dimen>
+
+    <dimen name="et_mName_Margin">20dp</dimen>
+
+    <dimen name="btn_next_Margin">20dp</dimen>
+
+    //for activity_list
+    <dimen name="tv_mList_marginLR">10dp</dimen>
+    <dimen name="tv_mList_marginTop">30dp</dimen>
+    <dimen name="tv_mList_tSize">40sp</dimen>
+    <dimen name="mList_lv_marginLeft">5dp</dimen>
+
+    //for list_item
+    <dimen name="tv_listItem_margin">10dp</dimen>
+    <dimen name="tv_listItem_tSize">20sp</dimen>
+
+
+
+
+    //temp
+
+    <dimen name="tv_detail_marginLT">20dp</dimen>
+    <dimen name="tv_detail_tSize">30sp</dimen>
+    <dimen name="title_desc_layout_marginLeft">10dp</dimen>
+    <dimen name="detail_tSize">14sp</dimen>
+    <dimen name="layout_margin_left_2nd_tv">5dp</dimen>
+
+
+
+
+    <dimen name="frame_margin">8dp</dimen>
+    <dimen name="view_paddingleft">15dp</dimen>
+
+    <dimen name="linear_margin">20dp</dimen>
+    <dimen name="layout_margin">20dp</dimen>
+    <dimen name="layout_width">200dp</dimen>
+    <dimen name="layout_width2">150dp</dimen>
+
+    <dimen name="left_margin">10dp</dimen>
+    <dimen name="text_size">17sp</dimen>
+    <dimen name="right_margin_left">95dp</dimen>
+    <dimen name="right_margin_top">10dp</dimen>
+
+    <dimen name="layout_padding">10dp</dimen>
+
+
+
+
+
+</resources>

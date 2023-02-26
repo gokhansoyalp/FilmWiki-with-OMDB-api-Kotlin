@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_movie_detail" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="iv_poster" type="id" />
+</resources>
